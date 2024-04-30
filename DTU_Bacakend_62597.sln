@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTU_Bacakend_62597", "DTU_Bacakend_62597.csproj", "{08B610E8-DE19-4C2F-AB11-B26A682DAF4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B610E8-DE19-4C2F-AB11-B26A682DAF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B610E8-DE19-4C2F-AB11-B26A682DAF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B610E8-DE19-4C2F-AB11-B26A682DAF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B610E8-DE19-4C2F-AB11-B26A682DAF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA878204-9A7C-4815-BBD2-C05EE5325AB8}
+	EndGlobalSection
+EndGlobal
