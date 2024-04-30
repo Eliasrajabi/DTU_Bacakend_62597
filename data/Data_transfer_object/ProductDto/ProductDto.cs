@@ -33,7 +33,7 @@ namespace backend.Data.Data_transfer_object.Dtos
     
         public int CategoryId { get; set; }
 
-        public List<BasketItemDto> BasketItems { get; set; } = new List<BasketItemDto>();
+        //public List<BasketItemDto> BasketItems { get; set; } = new List<BasketItemDto>();
         // public List<ProductReviewDto> ProductReviews { get; set; } = new List<ProductReview>();
 
         //Add review list 
